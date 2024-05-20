@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FormEvaluator</string>
+    <string name="main_button_scan_document">Scan document</string>
+    <string name="main_image_camera">Camera icon</string>
+    <string name="main_camera_permission_is_not_granted">Camera permission is not granted.</string>
+    <string name="main_button_grant_permission">Grant permission</string>
+</resources>

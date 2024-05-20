@@ -1,0 +1,8 @@
+com.formscanner-pngs-0 C:\Users\vitalii\Desktop\Android\TestGrader\form-scanner\build\generated\res\pngs\release
+com.formscanner-resValues-1 C:\Users\vitalii\Desktop\Android\TestGrader\form-scanner\build\generated\res\resValues\release
+com.formscanner-mergeReleaseResources-2 C:\Users\vitalii\Desktop\Android\TestGrader\form-scanner\build\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.formscanner-mergeReleaseResources-3 C:\Users\vitalii\Desktop\Android\TestGrader\form-scanner\build\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.formscanner-merged_res-4 C:\Users\vitalii\Desktop\Android\TestGrader\form-scanner\build\intermediates\merged_res\release
+com.formscanner-packaged_res-5 C:\Users\vitalii\Desktop\Android\TestGrader\form-scanner\opencv\build\intermediates\packaged_res\release
+com.formscanner-main-6 C:\Users\vitalii\Desktop\Android\TestGrader\form-scanner\src\main\res
+com.formscanner-release-7 C:\Users\vitalii\Desktop\Android\TestGrader\form-scanner\src\release\res

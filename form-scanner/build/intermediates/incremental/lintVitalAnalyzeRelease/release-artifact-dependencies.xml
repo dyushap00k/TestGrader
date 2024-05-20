@@ -1,0 +1,32 @@
+<dependencies>
+  <compile
+      roots=":form-scanner@@:opencv::release,com.jakewharton.timber:timber:5.0.1@aar,org.jetbrains.kotlin:kotlin-stdlib:1.9.22@jar,org.jetbrains:annotations:20.1.0@jar">
+    <dependency
+        name=":form-scanner@@:opencv::release"
+        simpleName="form-scanner:opencv"/>
+    <dependency
+        name="com.jakewharton.timber:timber:5.0.1@aar"
+        simpleName="com.jakewharton.timber:timber"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:1.9.22@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="org.jetbrains:annotations:20.1.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+  </compile>
+  <package
+      roots=":form-scanner@@:opencv::release,com.jakewharton.timber:timber:5.0.1@aar,org.jetbrains.kotlin:kotlin-stdlib:1.9.22@jar,org.jetbrains:annotations:20.1.0@jar">
+    <dependency
+        name=":form-scanner@@:opencv::release"
+        simpleName="form-scanner:opencv"/>
+    <dependency
+        name="com.jakewharton.timber:timber:5.0.1@aar"
+        simpleName="com.jakewharton.timber:timber"/>
+    <dependency
+        name="org.jetbrains.kotlin:kotlin-stdlib:1.9.22@jar"
+        simpleName="org.jetbrains.kotlin:kotlin-stdlib"/>
+    <dependency
+        name="org.jetbrains:annotations:20.1.0@jar"
+        simpleName="org.jetbrains:annotations"/>
+  </package>
+</dependencies>

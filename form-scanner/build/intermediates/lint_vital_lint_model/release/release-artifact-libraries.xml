@@ -1,0 +1,26 @@
+<libraries>
+  <library
+      name=":form-scanner@@:opencv::release"
+      project=":opencv"/>
+  <library
+      name="com.jakewharton.timber:timber:5.0.1@aar"
+      jars="C:\Users\vitalii\.gradle\caches\transforms-4\998c3178e2ccb198d1eb16420a6dece9\transformed\timber-5.0.1\jars\classes.jar"
+      resolved="com.jakewharton.timber:timber:5.0.1"
+      folder="C:\Users\vitalii\.gradle\caches\transforms-4\998c3178e2ccb198d1eb16420a6dece9\transformed\timber-5.0.1"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:1.9.22@jar"
+      jars="C:\Users\vitalii\.gradle\caches\modules-2\files-2.1\org.jetbrains.kotlin\kotlin-stdlib\1.9.22\d6c44cd08d8f3f9bece8101216dbe6553365c6e3\kotlin-stdlib-1.9.22.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.9.22"/>
+  <library
+      name="org.jetbrains:annotations:20.1.0@jar"
+      jars="C:\Users\vitalii\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations\20.1.0\2fcd1f3225bca0c4a7bc931142076f8c1e80993f\annotations-20.1.0.jar"
+      resolved="org.jetbrains:annotations:20.1.0"/>
+</libraries>

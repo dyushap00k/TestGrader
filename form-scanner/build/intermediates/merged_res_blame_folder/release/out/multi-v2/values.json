@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.formscanner-merged_res-3:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vitalii\\Desktop\\Android\\TestGrader\\form-scanner\\opencv\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.formscanner-mergeReleaseResources-1:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\vitalii\\Desktop\\Android\\TestGrader\\form-scanner\\opencv\\build\\intermediates\\packaged_res\\release\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "9",
+                        "endColumns": "24",
+                        "endOffsets": "361"
+                    }
+                }
+            ]
+        }
+    ]
+}

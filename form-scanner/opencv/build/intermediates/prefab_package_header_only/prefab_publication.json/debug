@@ -1,0 +1,17 @@
+{
+  "installationFolder": "C:\\Users\\artom\\IdeaProjects\\TestGrader\\form-scanner\\opencv\\build\\intermediates\\prefab_package\\debug\\prefab",
+  "gradlePath": ":opencv",
+  "packageInfo": {
+    "packageName": "opencv",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "C:\\Users\\artom\\IdeaProjects\\TestGrader\\form-scanner\\opencv\\native\\jni\\include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}
